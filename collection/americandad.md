@@ -11,8 +11,8 @@
 
 | Name | 百度网盘 |
 | --- | --- |
-| S17E02 | https://pan.baidu.com/s/1sFWxNPfoOSGLK5BfuEeguw?pwd=1xrv?pwd=1xrv |
-| S17E01 | https://pan.baidu.com/s/1-U3JeOXVrZKjj3bsXttGyw?pwd=ix8s?pwd=ix8s |
+| S17E02 | [链接](https://pan.baidu.com/s/1sFWxNPfoOSGLK5BfuEeguw?pwd=1xrv?pwd=1xrv) |
+| S17E01 | [链接](https://pan.baidu.com/s/1-U3JeOXVrZKjj3bsXttGyw?pwd=ix8s?pwd=ix8s) |
 
 # **第十六季（Fandom 分季）**
 
@@ -141,125 +141,125 @@
 
 | 季 | 集 | 微博在线 | 备注 |
 | --- | --- | --- | --- |
-| S12 | E14 | https://weibo.com/1784085333/J3f7IyP93 | imdb评分最低集 |
-| S04 | E02 | https://weibo.com/1784085333/ICA2P5nCL |  |
-| S15 | E06 | https://weibo.com/1784085333/IB07qBcYl |  |
-| S15 | E07 | https://weibo.com/1784085333/IA8rmjB0O |  |
-| S14 | E02 | https://weibo.com/1784085333/IudLAtyA7 |  |
-| S06 | E01 | https://weibo.com/1784085333/IsZS8FeFi |  |
-| S14 | E01 | https://weibo.com/1784085333/IsyFixwxG |  |
-| S13 | E16 | http://weibo.com/1784085333/IsoxNu3ZN |  |
-| S13 | E15 | https://weibo.com/1784085333/IsfKf7zey |  |
-| S05 | E02 | https://weibo.com/1784085333/Is62AuFFN |  |
-| S09 | E19 | https://weibo.com/1784085333/IpAnmERag |  |
-| S03 | E07 | https://weibo.com/1784085333/IoBlEohoD |  |
-| S12 | E13 | https://weibo.com/1784085333/InZPWstbZ |  |
-| S09 | E20 | https://weibo.com/1784085333/InudTk0eT |  |
-| S13 | E01 | https://weibo.com/1784085333/Ine5UjHXN |  |
-| S05 | E07 | https://weibo.com/1784085333/ImS5GF320 |  |
-| S05 | E01 | https://weibo.com/1784085333/IlwdsEbR8 |  |
-| S11 | E02 | http://t.cn/AiDt9ymx |  |
-| S15 | E08 | http://t.cn/AieOYzMZ |  |
-| S13 | E17 | http://t.cn/Aie4LZg8 |  |
-| S13 | E11 | http://t.cn/Aig0vbUd |  |
-| S05 | E12 | http://t.cn/AidONL17 |  |
-| S14 | E21 | http://t.cn/AidIbFNc |  |
-| S03 | E10 | http://t.cn/AidhuZ07 |  |
-| S05 | E05 | http://t.cn/AiByBxXx |  |
-| S02 | E02 | http://t.cn/Ai1a3tqi |  |
-| S09 | E06 | http://t.cn/Ai3334Zn |  |
-| S07 | E17 | http://t.cn/Aiu8ZuKD |  |
-| S14 | E19 | http://t.cn/Aim1BbTw |  |
-| S13 | E10 | http://t.cn/Aim8iBvp |  |
-| S05 | E09 | http://t.cn/AimSYKxy |  |
-| S03 | E05 | https://weibo.com/1784085333/I9uE2aThP? |  |
+| S12 | E14 | [链接](https://weibo.com/1784085333/J3f7IyP93) | imdb评分最低集 |
+| S04 | E02 | [链接](https://weibo.com/1784085333/ICA2P5nCL) |  |
+| S15 | E06 | [链接](https://weibo.com/1784085333/IB07qBcYl) |  |
+| S15 | E07 | [链接](https://weibo.com/1784085333/IA8rmjB0O) |  |
+| S14 | E02 | [链接](https://weibo.com/1784085333/IudLAtyA7) |  |
+| S06 | E01 | [链接](https://weibo.com/1784085333/IsZS8FeFi) |  |
+| S14 | E01 | [链接](https://weibo.com/1784085333/IsyFixwxG) |  |
+| S13 | E16 | [链接](https://weibo.com/1784085333/IsoxNu3ZN)|  |
+| S13 | E15 | [链接](https://weibo.com/1784085333/IsfKf7zey) |  |
+| S05 | E02 | [链接](https://weibo.com/1784085333/Is62AuFFN) |  |
+| S09 | E19 | [链接](https://weibo.com/1784085333/IpAnmERag) |  |
+| S03 | E07 | [链接](https://weibo.com/1784085333/IoBlEohoD) |  |
+| S12 | E13 | [链接](https://weibo.com/1784085333/InZPWstbZ) |  |
+| S09 | E20 | [链接](https://weibo.com/1784085333/InudTk0eT) |  |
+| S13 | E01 | [链接](https://weibo.com/1784085333/Ine5UjHXN) |  |
+| S05 | E07 | [链接](https://weibo.com/1784085333/ImS5GF320) |  |
+| S05 | E01 | [链接](https://weibo.com/1784085333/IlwdsEbR8) |  |
+| S11 | E02 | [链接](http://t.cn/AiDt9ymx) |  |
+| S15 | E08 | [链接](http://t.cn/AieOYzMZ) |  |
+| S13 | E17 | [链接](http://t.cn/Aie4LZg8) |  |
+| S13 | E11 | [链接](http://t.cn/Aig0vbUd) |  |
+| S05 | E12 | [链接](http://t.cn/AidONL17) |  |
+| S14 | E21 | [链接](http://t.cn/AidIbFNc) |  |
+| S03 | E10 | [链接](http://t.cn/AidhuZ07) |  |
+| S05 | E05 | [链接](http://t.cn/AiByBxXx) |  |
+| S02 | E02 | [链接](http://t.cn/Ai1a3tqi) |  |
+| S09 | E06 | [链接](http://t.cn/Ai3334Zn) |  |
+| S07 | E17 | [链接](http://t.cn/Aiu8ZuKD) |  |
+| S14 | E19 | [链接](http://t.cn/Aim1BbTw) |  |
+| S13 | E10 | [链接](http://t.cn/Aim8iBvp) |  |
+| S05 | E09 | [链接](http://t.cn/AimSYKxy) |  |
+| S03 | E05 | [链接](https://weibo.com/1784085333/I9uE2aThP?) |  |
 
 # ****圣诞特辑系列（Popgun译制）****
 
 | 季 | 集 | 微博在线 |
 | --- | --- | --- |
-| S03 | E08 | https://weibo.com/1784085333/Im6Hn73nh |
-| S12 | E06 | https://weibo.com/1784085333/IlX12EefF |
-| S15 | E01 | https://weibo.com/1784085333/IlNCgsPbs |
-| S14 | E07 | https://weibo.com/1784085333/IlF0wiErL |
-| S06 | E08 | https://weibo.com/1784085333/IlxZbckOQ |
+| S03 | E08 | [链接](https://weibo.com/1784085333/Im6Hn73nh) |
+| S12 | E06 | [链接](https://weibo.com/1784085333/IlX12EefF) |
+| S15 | E01 | [链接](https://weibo.com/1784085333/IlNCgsPbs) |
+| S14 | E07 | [链接](https://weibo.com/1784085333/IlF0wiErL) |
+| S06 | E08 | [链接](https://weibo.com/1784085333/IlxZbckOQ) |
 
 # 通天塔字幕组出品系列
 
 | 季 | 集 | 微博在线 |
 | --- | --- | --- |
-| S04 | E03 | https://weibo.com/2355632031/JE2TYqbdS |
-| S05 | E14 | https://weibo.com/2355632031/JDSag7F97 |
-| S09 | E16 | https://weibo.com/2355632031/JDAFajscS |
-| S06 | E05 | https://weibo.com/2355632031/JlG1XiuNx |
-| S06 | E11 | https://weibo.com/2355632031/JjQGr7l3C |
-| S04 | E17 | https://weibo.com/2355632031/Jjmd2fWJz |
-| S04 | E18 | https://weibo.com/2355632031/JikBw7IHc |
-| S04 | E14 | https://weibo.com/2355632031/JhS70m1rq |
-| S04 | E13 | https://weibo.com/2355632031/JdtJOBICy |
-| S04 | E12 | https://weibo.com/2355632031/JcP3Qxf5B |
-| S04 | E10 | https://weibo.com/2179743004/JaeYr72X5 |
-| S04 | E07 | https://weibo.com/2179743004/J6XzY8PdX |
-| S04 | E11 | https://weibo.com/2179743004/J627ukX7J |
-| S04 | E08 | https://weibo.com/2179743004/J5gKbt7b7 |
-| S05 | E06 | https://weibo.com/2179743004/J3Lppbu68 |
-| S06 | E17 | https://weibo.com/2179743004/J2xjif1b4 |
-| S06 | E15 | https://weibo.com/2179743004/IEn9kpNVW |
-| S06 | E14 | https://weibo.com/2179743004/IEdO4l0BE |
-| S06 | E13 | https://weibo.com/tv/v/IE4U2lzOk |
-| S06 | E12 | https://weibo.com/2179743004/IDUsOyPbX |
-| S06 | E10 | https://weibo.com/2179743004/IFrEjgCMh |
-| S06 | E09 | https://weibo.com/2179743004/IDJLCdI3W |
-| S06 | E04 | https://weibo.com/2179743004/IEYRDm6kB |
-| S06 | E03 | https://weibo.com/2179743004/IyO8G4S4P |
-| S06 | E02 | https://weibo.com/2179743004/IF89N36Fs |
-| S04 | E04 | https://weibo.com/2179743004/IDbwtCln7 |
+| S04 | E03 | [链接](https://weibo.com/2355632031/JE2TYqbdS) |
+| S05 | E14 | [链接](https://weibo.com/2355632031/JDSag7F97) |
+| S09 | E16 | [链接](https://weibo.com/2355632031/JDAFajscS) |
+| S06 | E05 | [链接](https://weibo.com/2355632031/JlG1XiuNx) |
+| S06 | E11 | [链接](https://weibo.com/2355632031/JjQGr7l3C) |
+| S04 | E17 | [链接](https://weibo.com/2355632031/Jjmd2fWJz) |
+| S04 | E18 | [链接](https://weibo.com/2355632031/JikBw7IHc) |
+| S04 | E14 | [链接](https://weibo.com/2355632031/JhS70m1rq) |
+| S04 | E13 | [链接](https://weibo.com/2355632031/JdtJOBICy) |
+| S04 | E12 | [链接](https://weibo.com/2355632031/JcP3Qxf5B) |
+| S04 | E10 | [链接](https://weibo.com/2179743004/JaeYr72X5) |
+| S04 | E07 | [链接](https://weibo.com/2179743004/J6XzY8PdX) |
+| S04 | E11 | [链接](https://weibo.com/2179743004/J627ukX7J) |
+| S04 | E08 | [链接](https://weibo.com/2179743004/J5gKbt7b7) |
+| S05 | E06 | [链接](https://weibo.com/2179743004/J3Lppbu68) |
+| S06 | E17 | [链接](https://weibo.com/2179743004/J2xjif1b4) |
+| S06 | E15 | [链接](https://weibo.com/2179743004/IEn9kpNVW) |
+| S06 | E14 | [链接](https://weibo.com/2179743004/IEdO4l0BE) |
+| S06 | E13 | [链接](https://weibo.com/tv/v/IE4U2lzOk) |
+| S06 | E12 | [链接](https://weibo.com/2179743004/IDUsOyPbX) |
+| S06 | E10 | [链接](https://weibo.com/2179743004/IFrEjgCMh) |
+| S06 | E09 | [链接](https://weibo.com/2179743004/IDJLCdI3W) |
+| S06 | E04 | [链接](https://weibo.com/2179743004/IEYRDm6kB) |
+| S06 | E03 | [链接](https://weibo.com/2179743004/IyO8G4S4P) |
+| S06 | E02 | [链接](https://weibo.com/2179743004/IF89N36Fs) |
+| S04 | E04 | [链接](https://weibo.com/2179743004/IDbwtCln7) |
 
 # YOLO译制合集
 
 | 季 | 集 | 微博在线 |
 | --- | --- | --- |
-| S07 | E04 | https://weibo.com/1784085333/Iu233kZRh |
-| S01 | E13 | https://weibo.com/1784085333/ItT0Ww7IG |
-| S09 | E12 | https://weibo.com/1784085333/ItIvIwhFu |
-| S07 | E02 | https://weibo.com/1784085333/Iti3c3K4S |
-| S09 | E05 | https://weibo.com/1784085333/It6UVCnii |
-| S02 | E15 | https://weibo.com/1784085333/IsZgcfx04 |
-| S02 | E13 | https://weibo.com/1784085333/IsHJCa1SP |
-| S02 | E09 | https://weibo.com/1784085333/IrUgIvO8B |
-| S02 | E19 | https://weibo.com/1784085333/IrE9ToRVw |
-| S08 | E13 | https://weibo.com/1784085333/IrEjBAGvV |
-| S11 | E03 | https://weibo.com/1784085333/IrulH35kW |
-| S11 | E01 | https://weibo.com/1784085333/IrrUMhLDI |
-| S07 | E03 | https://weibo.com/1784085333/IraecxETu |
-| S07 | E18 | https://weibo.com/1784085333/Ir96cpiu6 |
-| S08 | E19 | https://weibo.com/1784085333/Ir27hlPo6 |
+| S07 | E04 | [链接](https://weibo.com/1784085333/Iu233kZRh) |
+| S01 | E13 | [链接](https://weibo.com/1784085333/ItT0Ww7IG) |
+| S09 | E12 | [链接](https://weibo.com/1784085333/ItIvIwhFu) |
+| S07 | E02 | [链接](https://weibo.com/1784085333/Iti3c3K4S) |
+| S09 | E05 | [链接](https://weibo.com/1784085333/It6UVCnii) |
+| S02 | E15 | [链接](https://weibo.com/1784085333/IsZgcfx04) |
+| S02 | E13 | [链接](https://weibo.com/1784085333/IsHJCa1SP) |
+| S02 | E09 | [链接](https://weibo.com/1784085333/IrUgIvO8B) |
+| S02 | E19 | [链接](https://weibo.com/1784085333/IrE9ToRVw) |
+| S08 | E13 | [链接](https://weibo.com/1784085333/IrEjBAGvV) |
+| S11 | E03 | [链接](https://weibo.com/1784085333/IrulH35kW) |
+| S11 | E01 | [链接](https://weibo.com/1784085333/IrrUMhLDI) |
+| S07 | E03 | [链接](https://weibo.com/1784085333/IraecxETu) |
+| S07 | E18 | [链接](https://weibo.com/1784085333/Ir96cpiu6) |
+| S08 | E19 | [链接](https://weibo.com/1784085333/Ir27hlPo6) |
 
 # ****章泽楠译制合集****
 
 | 季 | 集 | 微博在线 |
 | --- | --- | --- |
-| S06 | E06 | https://weibo.com/1784085333/ItBJ97iSU |
-| S09 | E11 | http://t.cn/Aiu8ZuKF |
-| S09 | E10 | http://t.cn/AiED3zKd |
-| S09 | E09 | http://t.cn/AiE8KRbf |
-| S08 | E18 | http://t.cn/AiEpErzk |
-| S08 | E17 | http://t.cn/AiEpEOee |
-| S08 | E16 | http://t.cn/AiEpEOeg |
-| S08 | E15 | http://t.cn/AiQPtoB4 |
-| S08 | E14 | http://t.cn/AiQPto1B |
-| S08 | E12 | http://t.cn/AiQPto1F |
-| S09 | E08 | http://t.cn/AiQPto1r |
-| S09 | E07 | http://t.cn/AiQPto1e |
-| S09 | E04 | http://t.cn/AiQPtoBP |
-| S09 | E03 | http://t.cn/AiQPto1n |
-| S09 | E02 | http://t.cn/AiQPtoBw |
-| S07 | E01 | http://t.cn/AiQPtoBv |
+| S06 | E06 | [链接](https://weibo.com/1784085333/ItBJ97iSU) |
+| S09 | E11 | [链接](http://t.cn/Aiu8ZuKF) |
+| S09 | E10 | [链接](http://t.cn/AiED3zKd) |
+| S09 | E09 | [链接](http://t.cn/AiE8KRbf) |
+| S08 | E18 | [链接](http://t.cn/AiEpErzk) |
+| S08 | E17 | [链接](http://t.cn/AiEpEOee) |
+| S08 | E16 | [链接](http://t.cn/AiEpEOeg) |
+| S08 | E15 | [链接](http://t.cn/AiQPtoB4) |
+| S08 | E14 | [链接](http://t.cn/AiQPto1B) |
+| S08 | E12 | [链接](http://t.cn/AiQPto1F) |
+| S09 | E08 | [链接](http://t.cn/AiQPto1r) |
+| S09 | E07 | [链接](http://t.cn/AiQPto1e) |
+| S09 | E04 | [链接](http://t.cn/AiQPtoBP) |
+| S09 | E03 | [链接](http://t.cn/AiQPto1n) |
+| S09 | E02 | [链接](http://t.cn/AiQPtoBw) |
+| S07 | E01 | [链接](http://t.cn/AiQPtoBv) |
 
 # 其他
 
 | 名称 | 集 | 译制 | 微博在线 |
 | --- | --- | --- | --- |
-| S14 | E16 | 离开地球前 | http://t.cn/AiufeQxr |
-| S06 | E18 | 贴吧字幕组 | https://weibo.com/1784085333/ItgzNBSYd |
-| S06 | E01 | 离开地球前 | https://weibo.com/1784085333/IsZS8FeFi |
+| S14 | E16 | 离开地球前 | [链接](http://t.cn/AiufeQxr) |
+| S06 | E18 | 贴吧字幕组 | [链接](https://weibo.com/1784085333/ItgzNBSYd) |
+| S06 | E01 | 离开地球前 | [链接](https://weibo.com/1784085333/IsZS8FeFi) |
