@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Runtime API Examples | MDsub</title>
+    <meta name="description" content="🐻">
+    <link rel="preload stylesheet" href="/assets/style.bcbcba59.css" as="style">
+    <script type="module" src="/assets/app.2a800873.js"></script>
+    <link rel="preload" href="/assets/inter-roman-latin.2ed14f66.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="modulepreload" href="/assets/chunks/framework.d02fadbd.js">
+  <link rel="modulepreload" href="/assets/chunks/theme.02666907.js">
+  <link rel="modulepreload" href="/assets/api-examples.md.71446ce4.lean.js">
+  </head>
+  <body>
+    <div id="app"><div class="Layout" data-v-bffce215><!--[--><!--]--><!--[--><span tabindex="-1" data-v-5fd198a2></span><a href="#VPContent" class="VPSkipLink visually-hidden" data-v-5fd198a2> Skip to content </a><!--]--><!----><header class="VPNav" data-v-bffce215 data-v-5bdc5df3><div class="VPNavBar" data-v-5bdc5df3 data-v-d797c19b><div class="container" data-v-d797c19b><div class="title" data-v-d797c19b><div class="VPNavBarTitle" data-v-d797c19b data-v-c9cfcc93><a class="title" href="/" data-v-c9cfcc93><!--[--><!--]--><!----><!--[-->🐻<!--]--><!--[--><!--]--></a></div></div><div class="content" data-v-d797c19b><div class="curtain" data-v-d797c19b></div><div class="content-body" data-v-d797c19b><!--[--><!--]--><div class="VPNavBarSearch search" style="--vp-meta-key:&#39;Meta&#39;;" data-v-d797c19b><!----></div><!----><!----><!----><!----><!----><!--[--><!--]--><button type="button" class="VPNavBarHamburger hamburger" aria-label="mobile navigation" aria-expanded="false" aria-controls="VPNavScreen" data-v-d797c19b data-v-6bee1efd><span class="container" data-v-6bee1efd><span class="top" data-v-6bee1efd></span><span class="middle" data-v-6bee1efd></span><span class="bottom" data-v-6bee1efd></span></span></button></div></div></div></div><!----></header><!----><!----><div class="VPContent" id="VPContent" data-v-bffce215 data-v-91952ce3><div class="VPDoc has-aside" data-v-91952ce3 data-v-c11df1f0><!--[--><!--]--><div class="container" data-v-c11df1f0><div class="aside" data-v-c11df1f0><div class="aside-curtain" data-v-c11df1f0></div><div class="aside-container" data-v-c11df1f0><div class="aside-content" data-v-c11df1f0><div class="VPDocAside" data-v-c11df1f0 data-v-cb998dce><!--[--><!--]--><!--[--><!--]--><div class="VPDocAsideOutline" data-v-cb998dce data-v-c834746b><div class="content" data-v-c834746b><div class="outline-marker" data-v-c834746b></div><div class="outline-title" data-v-c834746b>On this page</div><nav aria-labelledby="doc-outline-aria-label" data-v-c834746b><span class="visually-hidden" id="doc-outline-aria-label" data-v-c834746b> Table of Contents for current page </span><ul class="root" data-v-c834746b data-v-a379eb72><!--[--><!--]--></ul></nav></div></div><!--[--><!--]--><div class="spacer" data-v-cb998dce></div><!--[--><!--]--><!----><!--[--><!--]--><!--[--><!--]--></div></div></div></div><div class="content" data-v-c11df1f0><div class="content-container" data-v-c11df1f0><!--[--><!--]--><!----><main class="main" data-v-c11df1f0><div style="position:relative;" class="vp-doc _api-examples" data-v-c11df1f0><div><h1 id="runtime-api-examples" tabindex="-1">Runtime API Examples <a class="header-anchor" href="#runtime-api-examples" aria-label="Permalink to &quot;Runtime API Examples&quot;">​</a></h1><p>This page demonstrates usage of some of the runtime APIs provided by VitePress.</p><p>The main <code>useData()</code> API can be used to access site, theme, and page data for the current page. It works in both <code>.md</code> and <code>.vue</code> files:</p><div class="language-md"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#A6ACCD;">&lt;script setup&gt;</span></span>
+<span class="line"><span style="color:#A6ACCD;">import { useData } from &#39;vitepress&#39;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#A6ACCD;">const { theme, page, frontmatter } = useData()</span></span>
+<span class="line"><span style="color:#A6ACCD;">&lt;/script&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">## </span><span style="color:#FFCB6B;">Results</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">### </span><span style="color:#FFCB6B;">Theme Data</span></span>
+<span class="line"><span style="color:#A6ACCD;">&lt;pre&gt;{{ theme }}&lt;/pre&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">### </span><span style="color:#FFCB6B;">Page Data</span></span>
+<span class="line"><span style="color:#A6ACCD;">&lt;pre&gt;{{ page }}&lt;/pre&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#89DDFF;">### </span><span style="color:#FFCB6B;">Page Frontmatter</span></span>
+<span class="line"><span style="color:#A6ACCD;">&lt;pre&gt;{{ frontmatter }}&lt;/pre&gt;</span></span></code></pre></div><h2 id="results" tabindex="-1">Results <a class="header-anchor" href="#results" aria-label="Permalink to &quot;Results&quot;">​</a></h2><h3 id="theme-data" tabindex="-1">Theme Data <a class="header-anchor" href="#theme-data" aria-label="Permalink to &quot;Theme Data&quot;">​</a></h3><pre>{}</pre><h3 id="page-data" tabindex="-1">Page Data <a class="header-anchor" href="#page-data" aria-label="Permalink to &quot;Page Data&quot;">​</a></h3><pre>{
+  &quot;title&quot;: &quot;Runtime API Examples&quot;,
+  &quot;description&quot;: &quot;&quot;,
+  &quot;frontmatter&quot;: {
+    &quot;outline&quot;: &quot;deep&quot;
+  },
+  &quot;headers&quot;: [],
+  &quot;relativePath&quot;: &quot;api-examples.md&quot;,
+  &quot;filePath&quot;: &quot;api-examples.md&quot;
+}</pre><h3 id="page-frontmatter" tabindex="-1">Page Frontmatter <a class="header-anchor" href="#page-frontmatter" aria-label="Permalink to &quot;Page Frontmatter&quot;">​</a></h3><pre>{
+  &quot;outline&quot;: &quot;deep&quot;
+}</pre><h2 id="more" tabindex="-1">More <a class="header-anchor" href="#more" aria-label="Permalink to &quot;More&quot;">​</a></h2><p>Check out the documentation for the <a href="https://vitepress.dev/reference/runtime-api#usedata" target="_blank" rel="noreferrer">full list of runtime APIs</a>.</p></div></div></main><footer class="VPDocFooter" data-v-c11df1f0 data-v-fc0d1b73><!--[--><!--]--><!----><!----></footer><!--[--><!--]--></div></div></div><!--[--><!--]--></div></div><!----><!--[--><!--]--></div></div>
+    <script>__VP_HASH_MAP__ = JSON.parse("{\"api-examples.md\":\"71446ce4\",\"markdown-examples.md\":\"73f6565e\",\"index.md\":\"ca45d0b7\"}")
+__VP_SITE_DATA__ = JSON.parse("{\"lang\":\"en-US\",\"dir\":\"ltr\",\"title\":\"🐻\",\"titleTemplate\":\"MDsub\",\"description\":\"🐻\",\"base\":\"/\",\"head\":[],\"appearance\":false,\"themeConfig\":{},\"locales\":{},\"scrollOffset\":90,\"cleanUrls\":false}")</script>
+    
+  </body>
+</html>
