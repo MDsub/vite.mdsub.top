@@ -4,4 +4,4 @@
 
 | Name | 译制 | 阿里云盘 | MDpan |
 | --- | --- | --- | --- |
-| ALL | 风月汉化组 | https://www.aliyundrive.com/s/kBHkmDRvz54 | https://mdpan.tk/%E5%86%92%E9%99%A9%E5%85%84%E5%BC%9F |
+| ALL | 风月汉化组 | [链接](https://www.aliyundrive.com/s/kBHkmDRvz54) | [链接](https://mdpan.tk/%E5%86%92%E9%99%A9%E5%85%84%E5%BC%9F) |

@@ -15,9 +15,9 @@
 | Name    | 译制                    | 百度网盘                                                         | 阿里云盘                                          | MDpan                                                         |
 |---------|-----------------------|----------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------|
 | S20合集 | 漫迪字幕组 通天塔字幕组 | [链接](https://pan.baidu.com/s/1iTZ20od7WmH9swdMOS5FnA?pwd=56ef) | [链接](https://www.aliyundrive.com/s/PZRMKH72mVi) | [链接](https://mdpan.tk/%E6%81%B6%E6%90%9E%E4%B9%8B%E5%AE%B6) |
-| S21E08  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1SH43pBZpxbDikRLtTdELqA?pwd=2eyu  |                                                   |                                                               |
-| S20E13  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1Cv5Q__uByFY8kOjBKu_QpQ?pwd=c552  | [链接](https://www.aliyundrive.com/s/39sGCCaA7K8) |                                                               |
-| S20E12  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1MnxsQb25Dj8iOdiDVokzpQ?pwd=9xue  | [链接](https://www.aliyundrive.com/s/bUPtCFotDR2) |                                                               |
+| S21E08  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1SH43pBZpxbDikRLtTdELqA?pwd=2eyu)  |                                                   |                                                               |
+| S20E13  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1Cv5Q__uByFY8kOjBKu_QpQ?pwd=c552 ) | [链接](https://www.aliyundrive.com/s/39sGCCaA7K8) |                                                               |
+| S20E12  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1MnxsQb25Dj8iOdiDVokzpQ?pwd=9xue)  | [链接](https://www.aliyundrive.com/s/bUPtCFotDR2) |                                                               |
 | S20E11  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1Ku9R10frjoDM3tFk8qBScw?pwd=wypg) | [链接](https://www.aliyundrive.com/s/NkzWy4oTHGE) |                                                               |
 | S20E10  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1URytfW6MmxbWDxx-EglQ3Q?pwd=rw6Y) | [链接](https://www.aliyundrive.com/s/MbmQCgguMXf) |                                                               |
 | S20E09  | 通天塔字幕组            | [链接](https://pan.baidu.com/s/1B0VYdP_2sEEBEjBDrXkrlA?pwd=48gw) | [链接](https://www.aliyundrive.com/s/qhqTqZtSH6X) |                                                               |
