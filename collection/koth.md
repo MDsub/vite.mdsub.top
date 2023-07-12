@@ -1,4 +1,4 @@
-- # 一家之主
+# 一家之主
 
 ![wp2499406.jpeg](/banner/koth.jpeg)
 
