@@ -25,4 +25,7 @@ features:
   - icon: 🥚
     title: 备用发布页
     link: collection/index.html
+  - icon: 🧰
+    title: 教程和工具
+    link: https://tutorial.mdsub.top/
 ---
